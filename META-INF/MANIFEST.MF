@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: MyCompany
+Package-Name: Game
+Main-Class: Game.Game
+Class-Path: lib/jl1.0.1.jar
+Name: Game
+Sealed: true
